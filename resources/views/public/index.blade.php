@@ -391,7 +391,7 @@
             background-color: rgba(249, 249, 249, 0.1);
             backdrop-filter: blur(10px);
             border-radius: 20px;
-            padding: 1rem;
+            padding: 0.7rem;
         }
 
         @media (min-width: 768px) {
@@ -472,18 +472,10 @@
 
 
         <section class="bg__image-header text-textWhite py-12" id="acerca">
-            <div class="relative w-11/12 mx-auto  flex flex-col items-center gap-10"
+            <div class="relative w-11/12 mx-auto  flex flex-col items-center gap-3"
                 data-aos="fade-up" data-aos-offset="150">
-                <div class="flex flex-col gap-6 xl:gap-20">
-                    <div class="md:basis-full flex flex-col gap-4">
-                        <p class="font-fontBook text-text56 leading-tight xl:text-text52 text-center tracking-tighter">
-                            Obtén el <span class="text-verdecreditomype font-fontBold">impulso 💰 financiero</span> que tu
-                            negocio necesita 💸
-
-                        </p>
-                    </div>
-                </div>
-                <div class="flex justify-center items-center w-full h-[200px] md:h-[290px] lg:h-[480px] mb-5">
+               
+                <div class="flex justify-center items-center w-full h-[220px] md:h-[290px] lg:h-[480px] mb-3 lg:mb-5">
                 
                     <div class="relative contenedor_video">
 
@@ -493,6 +485,15 @@
                             allowfullscreen
                             class="aspect-video w-[300px] md:w-[500px] lg:w-[800px]"></iframe>
                     
+                    </div>
+                </div>
+                <div class="flex flex-col gap-6 xl:gap-20">
+                    <div class="md:basis-full flex flex-col gap-4">
+                        <p class="font-fontBold text-text44 lg:text-text52 text-center leading-none tracking-tighter">
+                            Obtén el <span class="text-verdecreditomype ">impulso 💰 financiero</span> que tu
+                            negocio necesita 💸
+
+                        </p>
                     </div>
                 </div>
 
@@ -510,8 +511,8 @@
                         id="prestamo">
                         <div class="flex flex-col gap-8 md:gap-5">
                             <h1
-                                class="font-bold fontBold text-[50px] md:text-text36 2md:text-text56 leading-none 2md:leading-tight">
-                                Requisitos <span class="text-verdecreditomype font-fontLight">para solicitar 📄 un </span>
+                                class="font-bold font-fontBold  text-text44 lg:text-text52 leading-tight tracking-tighter">
+                                Requisitos <span class="text-verdecreditomype"><br>para solicitar 📄 un </span>
                                 préstamo 💸
                             </h1>
                         </div>
@@ -676,8 +677,8 @@
             data-aos="fade-up" data-aos-offset="150">
             <div class="flex flex-col gap-3 text-center px-[5%] lg:px-[20%]">
                 <h2
-                    class="font-bold font-fontBold text-verdecreditomype text-text48 md:text-text52 leading-none md:leading-tight">
-                    Beneficios <span class="text-azulcreditomype font-fontLight">de adquirir un préstamo 💸 con</span>
+                    class="font-bold font-fontBold text-verdecreditomype text-text32 lg:text-text52 leading-tight tracking-tighter">
+                    Beneficios <span class="text-azulcreditomype">de adquirir un préstamo 💸 con</span>
                     garantía hipotecaria 🏡
                 </h2>
             </div>
@@ -694,7 +695,7 @@
                         </div>
 
                         <div class="font-semibold flex flex-col gap-5 text-center items-center">
-                            <h2 class="font-fontBold text-text29  w-full mx-auto px-5 tracking-tight">
+                            <h2 class="font-fontBold text-text24 lg:text-text29  w-full mx-auto px-5 tracking-tight">
                                 Agilidad ⚡
                             </h2>
                             <p class="font-fontLight text-text20  px-5">
@@ -715,7 +716,7 @@
                         </div>
 
                         <div class="font-semibold flex flex-col gap-5 text-center items-center">
-                            <h2 class="font-fontBold text-text29  w-full mx-auto px-5 tracking-tight">
+                            <h2 class="font-fontBold text-text24 lg:text-text29  w-full mx-auto px-5 tracking-tight">
                                 Acompañamiento 👥
                             </h2>
                             <p class="font-fontLight text-text20  px-5">
@@ -736,7 +737,7 @@
                         </div>
 
                         <div class="font-semibold flex flex-col gap-5 text-center items-center">
-                            <h2 class="font-fontBold text-text29  w-full mx-auto px-5 tracking-tight">
+                            <h2 class="font-fontBold text-text24 lg:text-text29  w-full mx-auto px-5 tracking-tight">
                                 Monto del 💰 Préstamo
                             </h2>
                             <p class="font-fontLight text-text20  px-5">
@@ -757,7 +758,7 @@
                         </div>
 
                         <div class="font-semibold flex flex-col gap-5 text-center items-center">
-                            <h2 class="font-fontBold text-text29  w-full mx-auto px-5 tracking-tight">
+                            <h2 class="font-fontBold text-text24 lg:text-text29  w-full mx-auto px-5 tracking-tight">
                                 Tasas 📈 Competitivas
                             </h2>
                             <p class="font-fontLight text-text20  px-5">
@@ -778,7 +779,7 @@
                         </div>
 
                         <div class="font-semibold flex flex-col gap-5 text-center items-center">
-                            <h2 class="font-fontBold text-text29 w-full mx-auto px-5 tracking-tight">
+                            <h2 class="font-fontBold text-text24 lg:text-text29 w-full mx-auto px-5 tracking-tight">
                                 Evaluación 🔍 Flexible
                             </h2>
                             <p class="font-fontLight text-text20  px-5">
@@ -799,7 +800,7 @@
                         </div>
 
                         <div class="font-semibold flex flex-col gap-5 text-center items-center">
-                            <h2 class="font-fontBold text-text29 w-full mx-auto px-5 tracking-tight">
+                            <h2 class="font-fontBold text-text24 lg:text-text29 w-full mx-auto px-5 tracking-tight">
                                 Confianza ✔️
                             </h2>
                             <p class="font-fontLight text-text20  px-5">
@@ -844,16 +845,15 @@
         </section> --}}
 
 
-        <section class="bannervideo relative" id="testimonio">
+        <section class="bannervideo relative bg-top" id="testimonio">
             <div class="flex flex-col gap-5 text-textAzul w-full" data-aos="fade-up" data-aos-offset="150">
                 <div class="flex flex-col 2md:flex-row gap-10">
 
-                    <div class=" flex flex-col gap-40 basis-full text-left py-32">
+                    <div class=" flex flex-col gap-40 basis-full text-left py-16 lg:py-32">
                         <div class="flex flex-col gap-8 md:gap-5 bg-verdecreditomype w-2/4 lg:w-1/4 rounded-r-full py-5">
                             <h1
-                                class="text-white font-bold font-fontBold text-[17px] md:text-text32  leading-none 2md:leading-tight justify-center items-center pl-[10%]">
-                                Conoce <span class="font-fontLight"> nuestra<br> forma de</span>
-                                trabajo
+                                class="text-white font-bold font-fontBold text-[17px] md:text-text28  leading-none 2md:leading-tight justify-center items-center pl-[10%]">
+                                Conoce <span class="font-fontLight"> nuestras<br> #CrediHistorias 
                             </h1>
                         </div>
 
@@ -862,13 +862,9 @@
 
                             <img class="absolute top-0 right-28 -m-5 w-10 lg:18"
                                 src="{{ asset('images/img/triangulo.png') }}" />
-                            <h2 class="text-azulcreditomype  text-text11 lg:text-text24 font-fontLight">"Credito MYPE me
-                                ayudó a expandir
-                                mi tienda en un tiempo récord.
-                                El proceso fue simple y el equipo muy profesional."</h2>
-                            <h3 class="text-azulcreditomype text-text18 font-fontBold tracking-tighter mt-4">Maria
-                                Rodríguez,</h3>
-                            <h2 class="text-azulcreditomype text-text18 font-fontLight tracking-tighter">Emprendendora
+                            <h2 class="text-azulcreditomype  text-text11 lg:text-text20 font-fontLight">"Gracias a Creditomype pudimos solventar algunas deudas y repotenciar el negocio. Es muy personalizado, agradecerles por la confianza y preocuparse por los pequeños y micro empresarios."</h2>
+                            <h3 class="text-azulcreditomype text-text18 font-fontBold tracking-tighter mt-4">Heber Matos Salcedo,</h3>
+                            <h2 class="text-azulcreditomype text-text18 font-fontLight tracking-tighter">Emprendedor
                                 <div
                                     class="bg-azulcreditomype rounded-full absolute bottom-6 right-10 block lg:hidden play-button cursor-pointer">
                                     <img class=" animate-bounce animate-infinite w-7 h-7"
@@ -899,8 +895,8 @@
             data-aos-offset="150">
             <div class="flex flex-col gap-3 text-center px-[5%] lg:px-[20%]">
                 <h2
-                    class="tracking-tight font-bold font-fontBold text-verdecreditomype text-text48 md:text-text56 leading-none md:leading-tight">
-                    Nuestros aliados 🤝 <span class="text-azulcreditomype font-fontBold"> <br>estratégicos
+                    class="font-bold font-fontBold text-verdecreditomype  text-text44 lg:text-text52 leading-tight tracking-tighter">
+                    Nuestros aliados 🤝 <span class="text-azulcreditomype"> <br>estratégicos
                 </h2>
             </div>
 
@@ -937,8 +933,8 @@
         <section class="bg-azulcreditomype py-12 lg:py-24 space-y-14" id="prensa">
             <div class="flex flex-col md:flex-row w-11/12 mx-auto">
                 <h2
-                    class="tracking-tight font-bold font-fontBold text-white text-text48 md:text-text56 leading-none md:leading-tight">
-                    Nuestras 📰 <span class="text-verdecreditomype font-fontBold"> notas de prensa
+                    class="font-bold font-fontBold text-white  text-text44 lg:text-text52 leading-tight tracking-tighter">
+                    Nuestras 📰 <span class="text-verdecreditomype"> notas de prensa
                 </h2>
             </div>
             <div class="flex flex-col md:flex-row w-11/12 mx-auto gap-10">
@@ -992,8 +988,8 @@
                 <div class="text-azulcreditomype flex flex-col gap-14 basis-1/2 text-left px-[5%] lg:pr-[8%]">
                     <div class="flex flex-col gap-8 md:gap-5">
                         <h1
-                            class="font-bold fontBold text-[50px] md:text-text36 2md:text-text56 leading-none 2md:leading-tight tracking-tight">
-                            Cobertura <span class="text-verdecreditomype font-fontLight">de Servicio en </span>
+                            class="font-bold font-fontBold text-text44 lg:text-text52 leading-tight tracking-tighter">
+                            Cobertura <span class="text-verdecreditomype">de Servicio en </span>
                             Todo el Perú 📍
                         </h1>
                         <h2 class="text-azulcreditomype text-text24 font-semibold font-fontLight">Lima metropolitana, Lima
@@ -1043,7 +1039,7 @@
                     <div class="mx-auto px-5">
                         <div class="flex flex-col items-center ">
                             <h2
-                                class="tracking-tight font-bold font-fontBold text-verdecreditomype text-text48 md:text-text56 leading-none md:leading-tight text-center">
+                                class="font-bold font-fontBold text-verdecreditomype text-text32 lg:text-text52 leading-tight tracking-tighter text-center">
                                 Preguntas Frecuentes: <span class="text-azulcreditomype font-fontBold"> Todo lo<br> que
                                     Necesitas Saber 💡
                             </h2>
