@@ -904,7 +904,7 @@
             <div
                 class="flex flex-row justify-between items-center gap-5 text-azulcreditomype rounded-3xl py-4  w-full px-[5%] lg:px-[10%]">
                 <div>
-                    <img src="{{ asset('images/img/logocm1.png') }}" />
+                    <img src="{{ asset('images/img/logocm1.jpg') }}" class="w-32"/>
                 </div>
                 <div>
                     <img src="{{ asset('images/img/logocm2.png') }}" />
