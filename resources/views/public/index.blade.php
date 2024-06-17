@@ -504,15 +504,15 @@
 
         <section>
             <div class="mt-10">
-                <div class="w-full mx-auto flex flex-col md:flex-row justify-center text-center items-start sm:pt-[90px] pb-10  md:pt-20 lg:pb-20 lg:px-20 lg:pt-10"
+                <div class="w-full mx-auto flex flex-col xl:flex-row justify-center text-center items-start sm:pt-[90px] pb-10  md:pt-20 lg:pb-20 lg:px-20 lg:pt-10"
                     data-aos="fade-up" data-aos-offset="150">
 
                     <div class="text-azulcreditomype flex flex-col gap-14 basis-1/2 text-left p-5 lg:pr-[8%] pb-12"
                         id="prestamo">
                         <div class="flex flex-col gap-8 md:gap-5">
                             <h1
-                                class="font-bold font-fontBold  text-text44 lg:text-text52 leading-tight tracking-tighter">
-                                Requisitos <span class="text-verdecreditomype"><br>para solicitar 📄 un </span>
+                                class="font-bold font-fontBold  text-text44 lg:text-text52 leading-none lg:leading-tight tracking-tighter">
+                                Requisitos <span class="text-verdecreditomype">para<br> solicitar 📄 un </span>
                                 préstamo 💸
                             </h1>
                         </div>
@@ -566,7 +566,7 @@
                         </div>
                     </div>
 
-                    <div class="image-container flex justify-center items-center basis-1/2 relative ">
+                    <div class="image-container flex justify-center items-center basis-1/2 relative mx-auto ">
                         <!-- md:mt-24 - mt-12  xl:mt-32-->
                         <div
                             class="flex flex-col justify-end h-full items-end p-5 lg:p-8 bg-plomotransparente rounded-3xl ">
