@@ -489,8 +489,8 @@
                 </div>
                 <div class="flex flex-col gap-6 xl:gap-20">
                     <div class="md:basis-full flex flex-col gap-4">
-                        <p class="font-fontBold text-text44 lg:text-text52 text-center leading-none tracking-tighter">
-                            Obtén el <span class="text-verdecreditomype ">impulso 💰 financiero</span> que tu
+                        <p class="text-azulcreditomype font-fontBold text-text44 lg:text-text52 text-center leading-none tracking-tighter">
+                            Obtén el <span class="text-white ">impulso 💰 financiero</span> que tu
                             negocio necesita 💸
 
                         </p>
