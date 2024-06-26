@@ -490,7 +490,7 @@
                 <div class="flex flex-col gap-6 xl:gap-20">
                     <div class="md:basis-full flex flex-col gap-4">
                         <p class="text-azulcreditomype font-fontBold text-text44 lg:text-text52 text-center leading-none tracking-tighter">
-                            Obtén el <span class="text-white ">impulso 💰 financiero</span> que tu
+                            Obtén el <span class="text-white">impulso 💰 financiero</span> que tu
                             negocio necesita 💸
 
                         </p>
@@ -621,10 +621,13 @@
 
                                             <select name="monto"
                                                 class="bg-transparent mt-1 block w-full border-0 border-b-2 border-gray-400 rounded-none p-3 pr-24 focus:ring-0 focus:border-b-2 focus:border-gray-500">
-                                                <option class="option" value="">Seleccione el monto</option>
-                                                <option class="option" value="1000">1000</option>
-                                                <option class="option" value="5000">5000</option>
-                                                <option class="option" value="10000">10000</option>
+                                                    <option class="option" value="">Seleccione el monto</option>
+                                                    <option class="option" value="S/50,000.00">S/50,000.00</option>
+                                                    <option class="option" value="S/100,000.00">S/100,000.00</option>
+                                                    <option class="option" value="S/200,000.00">S/200,000.00</option>
+                                                    <option class="option" value="S/300,000.00">S/300,000.00</option>
+                                                    <option class="option" value="S/400,000.00">S/400,000.00</option>
+                                                    <option class="option" value="S/500,000.00">S/500,000.00</option>
                                             </select>
                                         </div>
                                         <div class="relative mb-4">
